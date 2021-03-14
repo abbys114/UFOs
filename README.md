@@ -6,6 +6,7 @@ The purpose of this project was too create a webpage that allows users to search
 
 ## Results
 When the webpage is used properly, it can be very useful in finding specific data on UFO sightings.  To use it, enter a filter or multiple filters in the Filter Search boxes.  The filter options are shown below and are date, city, state, country, and shape. After all the desired filters are put in, press enter and then below will show UFO sightings that meet that criteria.
+
 ![text](https://github.com/abbys114/UFOs/blob/main/UFOs/Fiilter%20Search%20.png)
 
 ## Summary
